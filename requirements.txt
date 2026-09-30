@@ -1,0 +1,6 @@
+# Minimal dependencies for the released modular O'Neil SAFIR workflow.
+# Versions match the user's SAFIR environment where applicable.
+numpy==2.2.6
+pandas==2.3.3
+scikit-learn==1.7.2
+torch==2.7.1

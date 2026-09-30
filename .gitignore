@@ -1,0 +1,24 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.env
+.ipynb_checkpoints/
+
+# IDE / OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Training outputs and checkpoints
+results/*
+!results/.gitkeep
+*.pt
+*.pth
+*.ckpt
+
+# Temporary files
+*.tmp
+*.log
